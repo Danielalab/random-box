@@ -6,6 +6,6 @@ Es un proyecto que se encarga de mostrar un mensaje y un color de fondo diferent
 
 ### Detalles del proyecto
 
-+ Este proyecto fue desarrollado con la librería *React*, ya que se pretende aprender su uso a tráves de este ejercicio.
-+ El proyecto muestra 5 frases diferentes , todas ellas d epersonajes de Star Wars como el Maestro Joda, Obi Wan, etc.
++ Este proyecto fue desarrollado con la librería *React*, ya que se quiere aprender su uso a tráves de este ejercicio.
++ El proyecto muestra 5 frases diferentes , todas ellas de personajes de Star Wars como el Maestro Joda, Obi Wan, etc.
 + El proyecto muestra 5 colores de fondo diferentes.
